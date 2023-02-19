@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martenseer
-- 👀 I’m interested in coding, cars and traveling
-- 🌱 I have learned HTML, CSS, and finished Turing College as a data analyst
+- 👀 I’m interested in coding, tech, cars and traveling
+- 🌱 I have learned HTML, CSS, SQL
 - 💞️ I’m looking to collaborate on various different projects, I want to learn as much as there is to learn when it comes to all of various languages and working in groups
 - 📫 How to reach me - marten.seer@gmail.com
 
